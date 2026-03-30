@@ -2,8 +2,8 @@
 Time-series analysis of Fort Worth (TX) crime data, uncovering trends, seasonality, and temperature relationships, and generating forecasts to understand and predict crime patterns over time.
 
 ### Key Resources
-- Deployed Streamlit dashboard: `https://fortworthcrimeforecast.streamlit.app/`
-- Final report: `https://drive.google.com/file/d/1h01G7i495uj7aLs-cc5WlltMPdf4DcT6/view`
+- [Streamlit Dashboard:](https://fortworthcrimeforecast.streamlit.app/)
+- [Final Report](https://drive.google.com/file/d/1h01G7i495uj7aLs-cc5WlltMPdf4DcT6/view)
 
 ### Project Scope
 - analyze monthly Fort Worth crime trends over time
@@ -21,7 +21,7 @@ Primary cleaned datasets used in the analysis:
 
 These support the core monthly analysis, temperature alignment, and forecasting workflow.
 
-### Analysis Assets
+### Analysis
 - `Python-Notebooks/analysis.ipynb`: crime trend, seasonality, STL decomposition, and forecasting exploration
 - `Python-Notebooks/TemprVsCrime.ipynb`: temperature-versus-crime comparison and merged monthly views
 - `R/analysis.R`: seasonal ARIMA, ARIMAX, and validation workflow in R
@@ -59,4 +59,3 @@ streamlit run app.py
 
 ### Note
 - Forecasting is implemented in Python with `statsmodels`, with seasonal ARIMA and temperature-informed ARIMAX views included in the dashboard.
-
