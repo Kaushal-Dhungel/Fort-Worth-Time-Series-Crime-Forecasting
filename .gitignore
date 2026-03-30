@@ -1,0 +1,5 @@
+.DS_Store
+AGENTS.md
+venv
+Data/CFW_Police_Crime_2005.csv
+Data/CFW_Police_Crime_Data_Points.csv
