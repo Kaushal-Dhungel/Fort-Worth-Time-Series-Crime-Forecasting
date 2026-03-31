@@ -1,6 +1,8 @@
 ## City of Fort Worth Crime Forecasting Analysis
 Time-series analysis of Fort Worth (TX) crime data, uncovering trends, seasonality, and temperature relationships, and generating forecasts to understand and predict crime patterns over time.
 
+![Dashboard](Imgs/Thumbnail.png)
+
 ### Key Resources
 - [Streamlit Dashboard:](https://fortworthcrimeforecast.streamlit.app/)
 - [Final Report](https://drive.google.com/file/d/1h01G7i495uj7aLs-cc5WlltMPdf4DcT6/view)
