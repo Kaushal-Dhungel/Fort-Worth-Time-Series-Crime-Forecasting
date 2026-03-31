@@ -4,8 +4,8 @@ Time-series analysis of Fort Worth (TX) crime data, uncovering trends, seasonali
 ![Dashboard](Imgs/Thumbnail.png)
 
 ### Key Resources
-- [Streamlit Dashboard:](https://fortworthcrimeforecast.streamlit.app/)
-- [Final Report](https://drive.google.com/file/d/1h01G7i495uj7aLs-cc5WlltMPdf4DcT6/view)
+- Access the viz dashboard here: [Streamlit Dashboard:](https://fortworthcrimeforecast.streamlit.app/)
+- See the research report here: [Final Report](https://drive.google.com/file/d/1h01G7i495uj7aLs-cc5WlltMPdf4DcT6/view)
 
 ### Project Scope
 - analyze monthly Fort Worth crime trends over time
